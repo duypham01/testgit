@@ -1,0 +1,3 @@
+console.error('new error');
+console.err('a')
+console.log('Duy')
